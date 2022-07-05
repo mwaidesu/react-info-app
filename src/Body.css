@@ -1,0 +1,19 @@
+.body {
+  background-color: #171619;
+  color: white;
+  padding: 50px;
+  height: 100vh;
+}
+
+ul {
+  list-style: none;
+}
+
+.react-list li::before {
+  content: "•";
+  color: #00d8ff;
+}
+
+.react-list li{
+  margin-bottom: 2rem;
+}

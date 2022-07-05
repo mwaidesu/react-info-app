@@ -1,0 +1,33 @@
+.nav{
+  height: 5rem;
+  background-color: black;
+  color: white;
+  width: 100%;
+
+  display:flex;
+  /* justify-content: space-between; */
+}
+
+/* img{
+  margin:20px;
+} */
+
+.nav-items{
+  color: #00d8ff;
+  list-style-type: none;
+  display: flex; 
+}
+
+.nav-items li{
+  padding-left: 3rem;
+  margin:20px;
+  float:left;
+}
+
+.facts{
+  color: #00d8ff;
+}
+
+/* .leftHeading{
+  flex: 1 1 200px;
+} */
